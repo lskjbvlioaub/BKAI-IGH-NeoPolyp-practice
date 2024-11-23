@@ -14,7 +14,7 @@ Test image process
   ```
 The resulting image will be stored in the "/kaggle/working/" folder. 
 
-#Google drive link to the checkpoint 
+# Google drive link to the checkpoint 
 https://drive.usercontent.google.com/download?id=1OZm_9OSPnvAy8GlEjpTgn9Ama0bEYpPS&authuser=0
 
 The checkpoint is download and load automatically when infer.py is initialized so there is no need to place the checkpoint file in the working folder.
